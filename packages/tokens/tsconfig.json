@@ -1,0 +1,4 @@
+{
+  "extends": "@rocket/ts-config/base.json",
+  "include": ["src"]
+}
