@@ -1,5 +1,5 @@
 {
-  "name": "@rocket/tokens",
+  "name": "@jsrocket-ui/tokens",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@rocket/ts-config": "*",
-    "@rocket/eslint-config": "*",
+    "@jsrocket-ui/ts-config": "*",
+    "@jsrocket-ui/eslint-config": "*",
     "tsup": "^7.2.0",
     "typescript": "^5.2.2"
   }

@@ -1,5 +1,5 @@
 {
-  "name": "@rocket/docs",
+  "name": "@jsrocket-ui/docs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -26,10 +26,10 @@
     "storybook": "^7.3.2"
   },
   "dependencies": {
-    "@rocket/eslint-config": "*",
-    "@rocket/react": "*",
-    "@rocket/tokens": "*",
-    "@rocket/ts-config": "*",
+    "@jsrocket-ui/eslint-config": "*",
+    "@jsrocket-ui/react": "*",
+    "@jsrocket-ui/tokens": "*",
+    "@jsrocket-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.4.0",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",

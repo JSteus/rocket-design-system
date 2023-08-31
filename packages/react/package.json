@@ -1,6 +1,6 @@
 {
-    "name": "@rocket/react",
-    "version": "1.0.0",
+    "name": "@jsrocket-ui/react",
+    "version": "2.0.0",
     "description": "",
     "main": "./dist/index.js",
     "module": "./dist/index.mjs",
@@ -14,9 +14,9 @@
     "author": "",
     "license": "MIT",
     "devDependencies": {
-        "@rocket/eslint-config": "*",
-        "@rocket/tokens": "*",
-        "@rocket/ts-config": "*",
+        "@jsrocket-ui/eslint-config": "*",
+        "@jsrocket-ui/tokens": "*",
+        "@jsrocket-ui/ts-config": "*",
         "@types/react": "^18.2.21",
         "@types/react-dom": "^18.2.7",
         "react": "^18.2.0",

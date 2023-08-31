@@ -1,4 +1,4 @@
-import { Box, Text, TextArea, TextAreaProps } from '@rocket/react'
+import { Box, Text, TextArea, TextAreaProps } from '@jsrocket-ui/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

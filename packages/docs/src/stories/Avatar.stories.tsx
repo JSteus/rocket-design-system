@@ -1,4 +1,4 @@
-import { Avatar, AvatarProps } from '@rocket/react'
+import { Avatar, AvatarProps } from '@jsrocket-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 
 export default {

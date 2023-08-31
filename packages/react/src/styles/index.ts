@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@rocket/tokens'
+} from '@jsrocket-ui/tokens'
 import { createStitches, defaultThemeMap } from '@stitches/react'
 
 export const {

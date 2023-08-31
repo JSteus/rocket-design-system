@@ -1,4 +1,4 @@
-import { Box, Checkbox, CheckboxProps, Text } from '@rocket/react'
+import { Box, Checkbox, CheckboxProps, Text } from '@jsrocket-ui/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {

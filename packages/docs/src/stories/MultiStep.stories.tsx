@@ -1,4 +1,4 @@
-import { Box, MultiStep, MultiStepProps } from '@rocket/react'
+import { Box, MultiStep, MultiStepProps } from '@jsrocket-ui/react'
 import type { Meta, StoryObj } from '@storybook/react'
 
 export default {
